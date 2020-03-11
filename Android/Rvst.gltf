@@ -8,7 +8,8 @@
         {
             "name" : "Scene",
             "nodes" : [
-                14
+                14,
+                15
             ]
         }
     ],
@@ -141,6 +142,20 @@
                 13
             ],
             "name" : "RootNode (gltf orientation matrix)"
+        },
+        {
+            "name" : "Spot",
+            "rotation" : [
+                0.47416773438453674,
+                0,
+                0,
+                0.880434513092041
+            ],
+            "translation" : [
+                0,
+                0.9922661781311035,
+                0.9689027667045593
+            ]
         }
     ],
     "materials" : [
@@ -206,9 +221,9 @@
             "name" : "WayDesign_Brick_mat1_mtl_1",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.018190400674939156,
-                    0.005358569789677858,
-                    0.001108929980546236,
+                    0.04867840185761452,
+                    0.011498276144266129,
+                    0.0018662989605218172,
                     1
                 ],
                 "metallicRoughnessTexture" : {
